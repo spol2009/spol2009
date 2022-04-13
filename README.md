@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @spol2009
+- 👀 I’m interested in competetive programming
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on coding problems
